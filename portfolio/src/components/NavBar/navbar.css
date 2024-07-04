@@ -1,0 +1,55 @@
+.navbar{
+	background: rgb(40, 42, 54);
+	height: 6rem;
+	width: 100vw;
+	margin: 0 auto;
+	padding: 1rem 2rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	color: white;
+	position: sticky;
+	top: 0;
+	z-index: 3;
+}
+
+.logo {
+	object-fit: cover;
+	height: 6rem;
+}
+
+.desktopMenuListItem{
+	margin: 1rem;
+	cursor: pointer;
+}
+
+
+.desktopButtonContainer{
+	display: flex;
+	align-items:center;
+}
+
+.desktopMenuButton {
+	border: none;
+}
+
+.linkedInDesktopButton {
+	object-fit: cover;
+	height: 2rem;
+	width: 2rem;
+	margin: 0.5rem;
+}
+
+.githubDesktopButton {
+	object-fit: cover;
+	height: 2rem;
+	width: 2rem;
+	margin: 0.5rem;
+}
+
+.emailDesktopButton {
+	object-fit: cover;
+	height: 2rem;
+	width: 2rem;
+	margin: 0.5rem;
+}
