@@ -1,9 +1,10 @@
 import React from 'react';
 import './navbar.css';
-import logo from '../../assets/logoSmall.png';
-import linkedIn from '../../assets/linkedIn.png';
-import github from '../../assets/github.png';
-import email from '../../assets/email.png';
+import logo from '../../assets/logo.png';
+// import logo from '../../assets/logoSmallDark.png';
+import linkedIn from '../../assets/linkedInDark.png';
+import github from '../../assets/githubDark.png';
+import email from '../../assets/emailDark.png';
 import { Link } from 'react-scroll';
 
 const navbar = () => {
@@ -34,4 +35,4 @@ const navbar = () => {
 	)
 }
 
-export default navbar
+export default navbar;

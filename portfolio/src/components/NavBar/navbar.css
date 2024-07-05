@@ -1,5 +1,5 @@
 .navbar{
-	background: rgb(40, 42, 54);
+	background: rgb(24, 24, 27);
 	height: 6rem;
 	width: 100vw;
 	margin: 0 auto;
@@ -38,6 +38,7 @@
 	height: 2rem;
 	width: 2rem;
 	margin: 0.5rem;
+	cursor: pointer;
 }
 
 .githubDesktopButton {
@@ -45,6 +46,7 @@
 	height: 2rem;
 	width: 2rem;
 	margin: 0.5rem;
+	cursor: pointer;
 }
 
 .emailDesktopButton {
@@ -52,4 +54,5 @@
 	height: 2rem;
 	width: 2rem;
 	margin: 0.5rem;
+	cursor: pointer;
 }
