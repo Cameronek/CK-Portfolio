@@ -3,11 +3,11 @@
 	height: 6rem;
 	width: 100vw;
 	margin: 0 auto;
-	padding: 1rem 2rem;
+	padding: 1rem 1rem;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	color: white;
+	color: #F8F8F2;
 	position: sticky;
 	top: 0;
 	z-index: 3;

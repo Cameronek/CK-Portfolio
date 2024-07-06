@@ -1,1 +1,37 @@
- 
+.introduction {
+	height: calc(100vh - 6rem);
+	width : 100vw;
+	max-width: 75rem;
+	margin: 0 auto;
+	overflow: hidden;
+	/*position:relative;*/
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+} 
+
+.headshotContainer {
+    width: 275px;
+    height: 275px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    background-color: rgb(68, 71, 90);
+    border: 4px solid rgb(24, 24, 27); /* Optional: Adds a border around the circle */
+    position: relative;
+}
+
+.headshot {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 5%;
+}
+
+.description{
+	width: 60%;
+	text-align: justify;
+	text-align-last: center;
+}

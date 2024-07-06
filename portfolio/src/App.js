@@ -2,6 +2,8 @@
 
 import NavBar from "./components/NavBar/navbar";
 import Introduction from "./components/Introduction/introduction";
+// "Home" component will be titled as lighthouse.js
+
 
 function App() {
   return (
