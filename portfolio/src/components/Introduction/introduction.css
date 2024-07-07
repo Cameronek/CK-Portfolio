@@ -1,7 +1,6 @@
 .introduction {
 	height: calc(100vh - 6rem);
 	width : 100vw;
-	max-width: 75rem;
 	margin: 0 auto;
 	overflow: hidden;
 	/*position:relative;*/
@@ -9,7 +8,8 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-} 
+}
+
 
 .headshotContainer {
     width: 275px;
@@ -30,8 +30,23 @@
     top: 5%;
 }
 
+.name {
+	color: #F8F8F2;
+	font-size: 40px;
+}
+
+.titles {
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+}
+
 .description{
 	width: 60%;
 	text-align: justify;
 	text-align-last: center;
+	color: #F8F8F2;
+
+
+
 }
