@@ -14,7 +14,7 @@ const lighthouse = () =>
 				<img src={lighthouseImage} className = "lighthouseImage" />
 				<img src={lighthouseGround} className = "groundImage" />	
 			</div>
-
+			
 		</section>
 
 		)
