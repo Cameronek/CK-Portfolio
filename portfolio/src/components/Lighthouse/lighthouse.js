@@ -21,10 +21,9 @@ const lighthouse = () =>
       	<br/>
       	<br/>
       	<br/>
-      	<br/>
-      	<br/>
-      	<br/>
       	Let me show you what I can do...
+      	<br/>
+
       </div>
 
 

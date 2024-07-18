@@ -31,28 +31,26 @@ const introduction = () =>
 			<div className = "name">
 				<span>Hey! I'm Cameron.</span>
 				<br />
-				<br />
+
 			</div>
 
 			
 			<div className = "description">
 				<br />
-				<br />
+
 				<span> I am a graduate from the Computer Engineer program at the Memorial University of Newfoundland and 
 					I have a passion for software development. I have two years of previous experience in a variety of roles, 
-					first an electrical engineering student at PanGeo Subsea, then as a researcher at the National Research Council of Canada 
+					first as an electrical engineering student at PanGeo Subsea, then as a researcher at the National Research Council of Canada 
 					and Furtwangen University, and more recently as a software developer at C-Core and PragmaClin. 
 
 				</span>
 				<br />
 				<br />
 				
-				<span> 
-					I am always trying to learn and improve myself as an engineer, 
-					by researching and creating new projects. 				
-					Here are a few of the things that I've worked on recently.
-				</span>
 			</div>	
+				<br />
+				<br />
+				<br />
 
 		</section>
 
