@@ -9,7 +9,6 @@ import ColourGradient from "./components/ColourGradient/colourgradient";
 
 // "Home" component will be titled as lighthouse.js
 
-
 function App() {
   return (
     <div className="App">
@@ -17,6 +16,7 @@ function App() {
       <Lighthouse/>
       <ColourGradient/>
       <Introduction/>
+
     </div>
   );
 }
