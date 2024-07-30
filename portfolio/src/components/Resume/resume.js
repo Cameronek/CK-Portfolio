@@ -1,10 +1,12 @@
 import React from 'react';
 import './resume.css';
+import resumeImage from '../../assets/resumeScreenshot.jpg';
 
 const resume = () => {
 	return (
-
-			<div> testing 123 </div>
+	<div class ="resumeSection">
+		<img class="resumeImage" src={resumeImage} />
+	</div>
 )}
 
 export default resume;

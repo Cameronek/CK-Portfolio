@@ -8,8 +8,6 @@ const introduction = () =>
 		<section className="introduction">
 
       <div className = "titles">
-				<br />
-				<br />
 
 	    	<span style={{color:"#8BE9FD"}}>Engineer.  &nbsp;</span>
 				<span style={{color:"#50FA7B"}}>Game Dev. &nbsp;</span>

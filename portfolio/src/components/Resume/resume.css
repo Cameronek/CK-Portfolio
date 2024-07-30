@@ -1,1 +1,5 @@
-
+.resumeImage {
+    border: 3px solid;
+    border-radius: 14px;
+    max-width: 600px;
+}
