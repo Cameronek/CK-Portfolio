@@ -20,15 +20,21 @@ const navbar = () => {
 
 			<div className="desktopButtonContainer">
 				<button className="desktopMenuButton">
-					<img src={linkedIn} alt="linkedInDesktopButton" className="linkedInDesktopButton"/>
+					<a href="https://www.linkedin.com/in/cameronek/" target="_blank">
+						<img src={linkedIn} alt="linkedInDesktopButton" className="linkedInDesktopButton"/>
+					</a>
 				</button>
 
 				<button className="desktopMenuButton">
-					<img src={github} alt="githubDesktopButton" className="githubDesktopButton"/>
+					<a href="https://github.com/Cameronek" target="_blank">
+						<img src={github} alt="githubDesktopButton" className="githubDesktopButton"/>
+					</a>
 				</button>
 
 				<button className="desktopMenuButton">
-					<img src={email} alt="emailDesktopButton" className="emailDesktopButton"/>
+					<a href="mailto:cameronek@mun.ca">
+						<img src={email} alt="emailDesktopButton" className="emailDesktopButton"/>
+					</a>
 				</button>
 			</div>
 		</nav>
